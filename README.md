@@ -41,4 +41,3 @@ Replace social links in /data/social.json
  Dark/Light mode
 
  Project filters & tags
- Project filters & tags
