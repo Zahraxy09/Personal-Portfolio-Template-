@@ -5,7 +5,6 @@ A modern, responsive portfolio to showcase projects, skills, and contact details
 ✨ Features
 
 Hero, About, Skills, Projects, Contact
-Hero, About, Skills, Projects, Contact
 Mobile-first responsive design
 
 SEO meta tags & Open Graph
