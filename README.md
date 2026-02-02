@@ -13,7 +13,6 @@ SEO meta tags & Open Graph
 Smooth scrolling & basic animations
 
 🧰 Tech Stack
-🧰 Tech Stack
 HTML, CSS (or Tailwind), JS
 
 🚀 Getting Started
