@@ -4,6 +4,7 @@ Personal Portfolio Template 👤Personal Portfolio
 A modern, responsive portfolio to showcase projects, skills, and contact details. Built to be fast, accessible, and easy to extend.
 
 ✨ Features
+✨ Features
 
 Hero, About, Skills, Projects, Contact
 Mobile-first responsive design
